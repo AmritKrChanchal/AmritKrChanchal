@@ -68,4 +68,4 @@ src="https://img.shields.io/twitter/follow/Amritkrchanchal?logo=twitter&style=fo
 
 ### Support Me
 
-<a href="https://www.buymeacoffee.com/AmritKrrChanchal"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+<a href="https://www.buymeacoffee.com/AmritKrChanchal"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
