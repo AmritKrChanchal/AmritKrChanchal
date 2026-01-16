@@ -1,11 +1,6 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Amrit Kumar Chanchal
 ============================================================================================================================================
 
-Web developer and Designer
---------------------------
-
-I have been Developing Web since 5 years And Get a Great 👍 Knowledge in Web Development from past 2 years i have been worked on several projects As A FrontEnd and Backend Devloper
-
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [My portfolio](http://amritkrchanchal.onrender.com/)
 * ✉️  You can contact me at [amritkumarchanchal@gmail.com](mailto:amritkumarchanchal@gmail.com)
